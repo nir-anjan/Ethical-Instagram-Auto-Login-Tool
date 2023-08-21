@@ -49,8 +49,10 @@ def logout():
 
 #open a tab with that link
 driver.get("https://www.instagram.com/")  
-driver.maximize_window()
-#assert "Python" in driver.title
+driver.maximize_window()    
+
+
+
 
 
 uname = "___ob__i__to___"
