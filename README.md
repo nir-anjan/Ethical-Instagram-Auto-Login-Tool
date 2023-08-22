@@ -1,4 +1,4 @@
-<h1>Project Title: Ethical Instagram Auto-Login Tool/<h1>
+<h1>Project Title: Ethical Instagram Auto-Login Tool\<h1>
 
 #Description:
 The Ethical Instagram Auto-Login Tool is a Python project designed to demonstrate responsible and ethical automation of the Instagram login process using the Selenium WebDriver. This project showcases a step-by-step approach to logging into an Instagram account while respecting Instagram's terms of service and usage policies.
