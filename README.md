@@ -30,6 +30,3 @@ This project is meant for educational purposes only and is not intended to encou
 
 Contributions that enhance the educational value, improve the user experience, or further emphasize ethical practices are welcomed. Please ensure that any changes align with the project's educational and ethical goals.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
