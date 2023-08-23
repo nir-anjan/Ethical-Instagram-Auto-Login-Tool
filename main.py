@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.common.by import By
 import time
 
-
+#set chrome as browser
 driver = webdriver.Chrome()
 wait=WebDriverWait(driver,200)
 
