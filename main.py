@@ -50,6 +50,10 @@ def logout():
     return
 
 
+#main
+uname = input("Enter the your Username: ")
+pwd = input("Enter the your Password: ")
+
 #open a tab with that link
 driver.get("https://www.instagram.com/") 
 
@@ -57,8 +61,6 @@ driver.get("https://www.instagram.com/")
 driver.maximize_window()
 
 
-uname = input("Enter the your Username: ")
-pwd = input("Enter the your Password: ")
 login(uname,pwd)
 
 ch=int(input("If you want to logout enter 1: "))
