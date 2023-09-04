@@ -21,6 +21,7 @@ This project showcases a responsible usage of automation for educational purpose
 3. Run the script: `python main.py`
 4. Follow the prompts to enter your Instagram username and password.
 5. Optionally choose to logout after a successful login.
+6. Can be used again.
 
 ## Disclaimer
 
