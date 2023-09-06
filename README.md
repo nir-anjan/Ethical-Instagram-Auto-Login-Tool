@@ -14,7 +14,7 @@ The Ethical Instagram Auto-Login Tool is a Python project designed to demonstrat
 
 This project showcases the responsible usage of automation for educational purposes. It respects user privacy and adheres to Instagram's terms of service. The project does not attempt to access private accounts or bypass any security measures. It serves as an educational example to demonstrate ethical automation practices.
 
-## Usage
+## Usages
 
 1. Clone the repository: `git clone https://github.com/your-username/ethical-instagram-auto-login.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
